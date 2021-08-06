@@ -102,13 +102,6 @@ hr {
   display: none;
 }
 
-/* .accordion-collapse.collapsing {
-  height: 0;
-  overflow: hidden;
-  transition: height 0.35s ease;
-} */
-
-
 .accordion-collapse.open {
   display: block;
 }
@@ -164,15 +157,4 @@ hr {
   }
 
 }
-
- 
-
-
-
-
-
-
-
-
-
 
